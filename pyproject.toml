@@ -1,0 +1,17 @@
+[project]
+name = "00-templates"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.4",
+    "openpyxl>=3.1.5",
+    "optuna>=4.8.0",
+    "pandas>=3.0.2",
+    "plotly>=6.7.0",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+]
