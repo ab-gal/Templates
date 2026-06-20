@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36">
   <diagram name="Hypotheses_Test" id="EaAN8zxcbOwV4642FLiN">
-    <mxGraphModel dx="1705" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1716" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
           <mxGeometry height="513" width="790" x="400" y="27" as="geometry" />
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-155" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fillStyle=auto;shadow=0;glass=0;align=left;strokeColor=none;perimeterSpacing=0;" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;COMPARISON&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;Categorical Predictor&lt;/font&gt; &lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;~&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;Quantitative Outcome&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Inter, sans-serif;&quot;&gt;Compare&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); box-sizing: inherit; font-weight: bolder; font-family: Inter, sans-serif;&quot;&gt;differences among group means&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Inter, sans-serif;&quot;&gt;. Test the effect of a categorical variable on the mean &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Inter, sans-serif;&quot;&gt;other characteristic.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="20" width="560" x="440" y="52.14999999999998" as="geometry" />
+          <mxGeometry height="20" width="680" x="458" y="33.15" as="geometry" />
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-156" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -278,204 +278,237 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-157" parent="1" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;strokeColor=none;rounded=1;opacity=50;" value="" vertex="1">
-          <mxGeometry height="240" width="780" x="400" y="78.14999999999998" as="geometry" />
+          <mxGeometry height="274" width="780" x="400" y="60" as="geometry" />
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-158" parent="xCRE8wccOKQfFn8-C-6z-157" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="23" width="780" as="geometry" />
+          <mxGeometry height="22" width="780" as="geometry" />
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-159" parent="xCRE8wccOKQfFn8-C-6z-158" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="23" width="114" as="geometry">
-            <mxRectangle height="23" width="114" as="alternateBounds" />
+          <mxGeometry height="22" width="114" as="geometry">
+            <mxRectangle height="22" width="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-160" parent="xCRE8wccOKQfFn8-C-6z-158" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;rowspan=1;colspan=2;" value="Inputs" vertex="1">
-          <mxGeometry height="23" width="246" x="114" as="geometry">
-            <mxRectangle height="23" width="126" as="alternateBounds" />
+          <mxGeometry height="22" width="246" x="114" as="geometry">
+            <mxRectangle height="22" width="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-161" parent="xCRE8wccOKQfFn8-C-6z-158" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="Outputs" vertex="1" visible="0">
-          <mxGeometry height="23" width="120" x="240" as="geometry">
-            <mxRectangle height="23" width="120" as="alternateBounds" />
+          <mxGeometry height="22" width="120" x="240" as="geometry">
+            <mxRectangle height="22" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-162" parent="xCRE8wccOKQfFn8-C-6z-158" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="Outputs" vertex="1">
-          <mxGeometry height="23" width="94" x="360" as="geometry">
-            <mxRectangle height="23" width="94" as="alternateBounds" />
+          <mxGeometry height="22" width="94" x="360" as="geometry">
+            <mxRectangle height="22" width="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-163" parent="xCRE8wccOKQfFn8-C-6z-158" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="Example" vertex="1">
-          <mxGeometry height="23" width="166" x="454" as="geometry">
-            <mxRectangle height="23" width="166" as="alternateBounds" />
+          <mxGeometry height="22" width="166" x="454" as="geometry">
+            <mxRectangle height="22" width="166" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttZCbK3ra_AwcMFaCHn2-2" parent="xCRE8wccOKQfFn8-C-6z-158" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="More on this" vertex="1">
-          <mxGeometry height="23" width="160" x="620" as="geometry">
-            <mxRectangle height="23" width="160" as="alternateBounds" />
+          <mxGeometry height="22" width="160" x="620" as="geometry">
+            <mxRectangle height="22" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-164" parent="xCRE8wccOKQfFn8-C-6z-157" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1">
-          <mxGeometry height="32" width="780" y="23" as="geometry" />
+          <mxGeometry height="31" width="780" y="22" as="geometry" />
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-165" parent="xCRE8wccOKQfFn8-C-6z-164" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry height="32" width="114" as="geometry">
-            <mxRectangle height="32" width="114" as="alternateBounds" />
+          <mxGeometry height="31" width="114" as="geometry">
+            <mxRectangle height="31" width="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-166" parent="xCRE8wccOKQfFn8-C-6z-164" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px; color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;Predictors (P) |&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255)); font-size: 10px; background-color: transparent;&quot;&gt;Levels (L)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="32" width="126" x="114" as="geometry">
-            <mxRectangle height="32" width="126" as="alternateBounds" />
+          <mxGeometry height="31" width="126" x="114" as="geometry">
+            <mxRectangle height="31" width="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-167" parent="xCRE8wccOKQfFn8-C-6z-164" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px; color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;Outcome (O) |&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255)); font-size: 10px; background-color: transparent;&quot;&gt;Levels (L)&lt;/span&gt;" vertex="1">
-          <mxGeometry height="32" width="120" x="240" as="geometry">
-            <mxRectangle height="32" width="120" as="alternateBounds" />
+          <mxGeometry height="31" width="120" x="240" as="geometry">
+            <mxRectangle height="31" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-168" parent="xCRE8wccOKQfFn8-C-6z-164" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry height="32" width="94" x="360" as="geometry">
-            <mxRectangle height="32" width="94" as="alternateBounds" />
+          <mxGeometry height="31" width="94" x="360" as="geometry">
+            <mxRectangle height="31" width="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-169" parent="xCRE8wccOKQfFn8-C-6z-164" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;color: rgb(153, 0, 0);&quot;&gt;&lt;b&gt;Predictor&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt; &lt;/font&gt;| &lt;font style=&quot;color: rgb(0, 76, 153);&quot;&gt;&lt;b style=&quot;&quot;&gt;Outcome&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="32" width="166" x="454" as="geometry">
-            <mxRectangle height="32" width="166" as="alternateBounds" />
+          <mxGeometry height="31" width="166" x="454" as="geometry">
+            <mxRectangle height="31" width="166" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttZCbK3ra_AwcMFaCHn2-3" parent="xCRE8wccOKQfFn8-C-6z-164" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry height="32" width="160" x="620" as="geometry">
-            <mxRectangle height="32" width="160" as="alternateBounds" />
+          <mxGeometry height="31" width="160" x="620" as="geometry">
+            <mxRectangle height="31" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-170" parent="xCRE8wccOKQfFn8-C-6z-157" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1">
-          <mxGeometry height="54" width="780" y="55" as="geometry" />
+          <mxGeometry height="52" width="780" y="53" as="geometry" />
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-171" parent="xCRE8wccOKQfFn8-C-6z-170" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;Paired t-test&lt;/b&gt;" vertex="1">
-          <mxGeometry height="54" width="114" as="geometry">
-            <mxRectangle height="54" width="114" as="alternateBounds" />
+          <mxGeometry height="52" width="114" as="geometry">
+            <mxRectangle height="52" width="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-172" parent="xCRE8wccOKQfFn8-C-6z-170" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;1P = 2L&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Categorical&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="54" width="126" x="114" as="geometry">
-            <mxRectangle height="54" width="126" as="alternateBounds" />
+          <mxGeometry height="52" width="126" x="114" as="geometry">
+            <mxRectangle height="52" width="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-173" parent="xCRE8wccOKQfFn8-C-6z-170" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;1O = 1L&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Quantitative&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="54" width="120" x="240" as="geometry">
-            <mxRectangle height="54" width="120" as="alternateBounds" />
+          <mxGeometry height="52" width="120" x="240" as="geometry">
+            <mxRectangle height="52" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-174" parent="xCRE8wccOKQfFn8-C-6z-170" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;p - t&lt;/b&gt;" vertex="1">
-          <mxGeometry height="54" width="94" x="360" as="geometry">
-            <mxRectangle height="54" width="94" as="alternateBounds" />
+          <mxGeometry height="52" width="94" x="360" as="geometry">
+            <mxRectangle height="52" width="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-175" parent="xCRE8wccOKQfFn8-C-6z-170" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=left;whiteSpace=wrap;html=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Effect of &lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;2 different methods&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;on &lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 76, 153);&quot;&gt;&lt;b&gt;av. exam scores&lt;/b&gt;&lt;/font&gt;&amp;nbsp;for students from the same class?&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="54" width="166" x="454" as="geometry">
-            <mxRectangle height="54" width="166" as="alternateBounds" />
+          <mxGeometry height="52" width="166" x="454" as="geometry">
+            <mxRectangle height="52" width="166" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ttZCbK3ra_AwcMFaCHn2-4" parent="xCRE8wccOKQfFn8-C-6z-170" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Groups from &lt;b&gt;same population&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: preserve; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;stats.ttest_rel&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; font-family: monospace; text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;before, after&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;)&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="54" width="160" x="620" as="geometry">
-            <mxRectangle height="54" width="160" as="alternateBounds" />
+        <mxCell id="ttZCbK3ra_AwcMFaCHn2-4" parent="xCRE8wccOKQfFn8-C-6z-170" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Groups from &lt;b&gt;same population = same size&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 12px; white-space-collapse: preserve; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;stats.ttest_rel&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; font-family: monospace; text-align: start;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;before, after&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;)&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="160" x="620" as="geometry">
+            <mxRectangle height="52" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-176" parent="xCRE8wccOKQfFn8-C-6z-157" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1">
-          <mxGeometry height="44" width="780" y="109" as="geometry" />
+          <mxGeometry height="43" width="780" y="105" as="geometry" />
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-177" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;Independent t-test&lt;/b&gt;" vertex="1">
-          <mxGeometry height="44" width="114" as="geometry">
-            <mxRectangle height="44" width="114" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-178" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;1P = 2L&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Categorical&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="44" width="126" x="114" as="geometry">
-            <mxRectangle height="44" width="126" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-179" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;1O = 1L&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Quantitative&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="44" width="120" x="240" as="geometry">
-            <mxRectangle height="44" width="120" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-180" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;p - t&lt;/b&gt;" vertex="1">
-          <mxGeometry height="44" width="94" x="360" as="geometry">
-            <mxRectangle height="44" width="94" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-181" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Difference from&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;students of 2 different schools &lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px; background-color: transparent;&quot;&gt;on&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;av. exam scores&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="44" width="166" x="454" as="geometry">
-            <mxRectangle height="44" width="166" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ttZCbK3ra_AwcMFaCHn2-5" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Groups from &lt;b style=&quot;&quot;&gt;different population&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 15, 16); font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve;&quot;&gt;stats.ttest_ind(&lt;/span&gt;&lt;span style=&quot;font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;A, B&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 15, 16); font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve;&quot;&gt;)&lt;/span&gt;&lt;b style=&quot;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="44" width="160" x="620" as="geometry">
-            <mxRectangle height="44" width="160" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-182" parent="xCRE8wccOKQfFn8-C-6z-157" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1">
-          <mxGeometry height="43" width="780" y="153" as="geometry" />
-        </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-183" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;ANOVA&lt;/b&gt;" vertex="1">
           <mxGeometry height="43" width="114" as="geometry">
             <mxRectangle height="43" width="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-184" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;1P+ or 3L+&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Categorical&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-178" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;1P = 2L&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Categorical&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="43" width="126" x="114" as="geometry">
             <mxRectangle height="43" width="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-185" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;1O = 1L&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Quantitative&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-179" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;1O = 1L&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Quantitative&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="43" width="120" x="240" as="geometry">
             <mxRectangle height="43" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-186" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;p - f-stat&lt;/b&gt;" vertex="1">
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-180" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;p - t&lt;/b&gt;" vertex="1">
           <mxGeometry height="43" width="94" x="360" as="geometry">
             <mxRectangle height="43" width="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCRE8wccOKQfFn8-C-6z-187" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Effect of &lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;3 different painkillers&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 10px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;on&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;average pain level&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-181" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Difference from&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;students of 2 different schools &lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 10px; background-color: transparent;&quot;&gt;on&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;av. exam scores. A/B Test with Quantitative&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="43" width="166" x="454" as="geometry">
             <mxRectangle height="43" width="166" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ttZCbK3ra_AwcMFaCHn2-6" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;rowspan=2;colspan=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Doesn&#39;t indicate&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;what&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;is significant, but&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;if there&lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;is a significance&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; font-family: monospace; text-align: start; white-space-collapse: preserve; background-color: transparent;&quot;&gt;&lt;font color=&quot;#0f0f10&quot;&gt;&amp;lt;stats.f_oneway(&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;A, B, C&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#0f0f10&quot;&gt;)&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;&amp;lt;MANOVA.from_formula(&lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; box-sizing: border-box; font-family: monospace; text-align: start; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;&#39;&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;Outcome1 + Outcome2&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt; ~ &lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; box-sizing: border-box; font-family: monospace; text-align: start; color: rgb(3, 47, 98); animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;GroupA * GroupB&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; box-sizing: border-box; color: rgb(3, 47, 98); font-family: monospace; text-align: start; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;, data=df_manova)&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9px; font-family: monospace; text-align: start; white-space-collapse: preserve; background-color: transparent;&quot;&gt;&lt;font color=&quot;#0f0f10&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="87" width="160" x="620" as="geometry">
+        <mxCell id="ttZCbK3ra_AwcMFaCHn2-5" parent="xCRE8wccOKQfFn8-C-6z-176" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;different population != Size&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 15, 16); font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve;&quot;&gt;stats.ttest_ind(&lt;/span&gt;&lt;span style=&quot;font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;A, B, &lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;equal_var=False&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(15, 15, 16); font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve; background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="43" width="160" x="620" as="geometry">
             <mxRectangle height="43" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NQO6jQnML1kzxmH3N5FZ-1" parent="xCRE8wccOKQfFn8-C-6z-157" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1">
+          <mxGeometry height="42" width="780" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="NQO6jQnML1kzxmH3N5FZ-2" parent="NQO6jQnML1kzxmH3N5FZ-1" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;Proportions z-test&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42" width="114" as="geometry">
+            <mxRectangle height="42" width="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQO6jQnML1kzxmH3N5FZ-3" parent="NQO6jQnML1kzxmH3N5FZ-1" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;1P=2L&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42" width="126" x="114" as="geometry">
+            <mxRectangle height="42" width="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQO6jQnML1kzxmH3N5FZ-4" parent="NQO6jQnML1kzxmH3N5FZ-1" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;1O=1L&lt;/b&gt;&lt;div&gt;&lt;b&gt;Binary&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="120" x="240" as="geometry">
+            <mxRectangle height="42" width="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQO6jQnML1kzxmH3N5FZ-5" parent="NQO6jQnML1kzxmH3N5FZ-1" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;p - t&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42" width="94" x="360" as="geometry">
+            <mxRectangle height="42" width="94" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQO6jQnML1kzxmH3N5FZ-6" parent="NQO6jQnML1kzxmH3N5FZ-1" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b style=&quot;font-size: 10px; color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;before and after (2 states)&lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;with&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(0, 76, 153); font-size: 10px;&quot;&gt;1 bolean outcome. A/B Test with binary output&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42" width="166" x="454" as="geometry">
+            <mxRectangle height="42" width="166" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQO6jQnML1kzxmH3N5FZ-7" parent="NQO6jQnML1kzxmH3N5FZ-1" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;different population != Size&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(15, 15, 16); font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve;&quot;&gt;proportion_ztest(count&lt;/span&gt;&lt;span style=&quot;font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;, nobs, &lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;alternative=&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(15, 15, 16); font-family: monospace; font-size: 9px; text-align: start; white-space-collapse: preserve; background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="160" x="620" as="geometry">
+            <mxRectangle height="42" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-182" parent="xCRE8wccOKQfFn8-C-6z-157" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1">
+          <mxGeometry height="42" width="780" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-183" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;ANOVA&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42" width="114" as="geometry">
+            <mxRectangle height="42" width="114" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-184" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;1P+ or 3L+&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Categorical&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="126" x="114" as="geometry">
+            <mxRectangle height="42" width="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-185" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;1O = 1L&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Quantitative&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="120" x="240" as="geometry">
+            <mxRectangle height="42" width="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-186" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;p - f-stat&lt;/b&gt;" vertex="1">
+          <mxGeometry height="42" width="94" x="360" as="geometry">
+            <mxRectangle height="42" width="94" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xCRE8wccOKQfFn8-C-6z-187" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Effect of &lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;3 different painkillers&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 10px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;on&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;average pain level&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="42" width="166" x="454" as="geometry">
+            <mxRectangle height="42" width="166" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ttZCbK3ra_AwcMFaCHn2-6" parent="xCRE8wccOKQfFn8-C-6z-182" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;rowspan=2;colspan=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Doesn&#39;t indicate&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;what&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;is significant, but&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;if there&lt;/b&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;is a significance&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px; font-family: monospace; text-align: start; white-space-collapse: preserve; background-color: transparent;&quot;&gt;&lt;font color=&quot;#0f0f10&quot;&gt;&amp;lt;stats.f_oneway(&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;A, B, C&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#0f0f10&quot;&gt;)&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;&amp;lt;MANOVA.from_formula(&lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; box-sizing: border-box; font-family: monospace; text-align: start; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;&#39;&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;Outcome1 + Outcome2&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt; ~ &lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; box-sizing: border-box; font-family: monospace; text-align: start; color: rgb(3, 47, 98); animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(153, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;GroupA * GroupB&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; box-sizing: border-box; color: rgb(3, 47, 98); font-family: monospace; text-align: start; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; font-size: 9px; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;, data=df_manova)&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9px; font-family: monospace; text-align: start; white-space-collapse: preserve; background-color: transparent;&quot;&gt;&lt;font color=&quot;#0f0f10&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="84" width="160" x="620" as="geometry">
+            <mxRectangle height="42" width="160" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-188" parent="xCRE8wccOKQfFn8-C-6z-157" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;" vertex="1">
-          <mxGeometry height="44" width="780" y="196" as="geometry" />
+          <mxGeometry height="42" width="780" y="232" as="geometry" />
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-189" parent="xCRE8wccOKQfFn8-C-6z-188" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;MANOVA&lt;/b&gt;" vertex="1">
-          <mxGeometry height="44" width="114" as="geometry">
-            <mxRectangle height="44" width="114" as="alternateBounds" />
+          <mxGeometry height="42" width="114" as="geometry">
+            <mxRectangle height="42" width="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-190" parent="xCRE8wccOKQfFn8-C-6z-188" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;1P+ or 3L+&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Categorical&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="44" width="126" x="114" as="geometry">
-            <mxRectangle height="44" width="126" as="alternateBounds" />
+          <mxGeometry height="42" width="126" x="114" as="geometry">
+            <mxRectangle height="42" width="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-191" parent="xCRE8wccOKQfFn8-C-6z-188" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;b&gt;1O+ or 2L+&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Quantitative&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="44" width="120" x="240" as="geometry">
-            <mxRectangle height="44" width="120" as="alternateBounds" />
+          <mxGeometry height="42" width="120" x="240" as="geometry">
+            <mxRectangle height="42" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-192" parent="xCRE8wccOKQfFn8-C-6z-188" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(15, 15, 16); font-family: monospace; text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; white-space-collapse: collapse;&quot;&gt;&lt;font&gt;p= Pr&amp;gt;F | Wilk&lt;/font&gt;&lt;font&gt;s&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: transparent; white-space-collapse: preserve; color: light-dark(rgb(15, 15, 16), rgb(224, 224, 225)); font-family: monospace; text-align: start;&quot;&gt;&lt;font style=&quot;line-height: 100%; font-size: 9px;&quot;&gt;print(maov.mv_test()&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="44" width="94" x="360" as="geometry">
-            <mxRectangle height="44" width="94" as="alternateBounds" />
+          <mxGeometry height="42" width="94" x="360" as="geometry">
+            <mxRectangle height="42" width="94" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-193" parent="xCRE8wccOKQfFn8-C-6z-188" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Effect of &lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;water type and location&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 10px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;on&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 10px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 76, 153), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;petal lenght, petal width and stem lenght&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="44" width="166" x="454" as="geometry">
-            <mxRectangle height="44" width="166" as="alternateBounds" />
+          <mxGeometry height="42" width="166" x="454" as="geometry">
+            <mxRectangle height="42" width="166" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttZCbK3ra_AwcMFaCHn2-7" parent="xCRE8wccOKQfFn8-C-6z-188" style="connectable=0;recursiveResize=0;strokeColor=none;fillColor=none;align=center;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 9px; background-color: transparent; white-space-collapse: preserve; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;MANOVA.from_formula(&lt;/span&gt;&lt;span class=&quot;hljs-string&quot; style=&quot;font-size: 9px; background-color: transparent; white-space-collapse: preserve; box-sizing: border-box; color: rgb(3, 47, 98); font-family: monospace; text-align: start; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&#39;Satisfaction + Spend ~ Group&#39;&lt;/span&gt;&lt;span style=&quot;font-size: 9px; background-color: transparent; white-space-collapse: preserve; color: rgb(15, 15, 16); font-family: monospace; text-align: start;&quot;&gt;, data=df_manova)&lt;/span&gt;&lt;/div&gt;" vertex="1" visible="0">
-          <mxGeometry height="44" width="160" x="620" as="geometry">
-            <mxRectangle height="44" width="160" as="alternateBounds" />
+          <mxGeometry height="42" width="160" x="620" as="geometry">
+            <mxRectangle height="42" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCRE8wccOKQfFn8-C-6z-194" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=none;strokeWidth=0.5;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p style=&quot;text-align: center; margin-top: 0px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 12px; line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot; face=&quot;Helvetica&quot;&gt;&lt;b&gt;DATA TYPES&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px; box-sizing: inherit; font-weight: bolder;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px; box-sizing: inherit; font-weight: bolder;&quot;&gt;&lt;span style=&quot;font-family: Inter, sans-serif; box-sizing: inherit; font-weight: bolder;&quot;&gt;Quantitative variables&lt;/span&gt;&lt;span style=&quot;font-family: Inter, sans-serif; font-weight: 400;&quot;&gt;&amp;nbsp;represent amounts of things (e.g. the number of trees in a forest).&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Inter, sans-serif; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Types of quantitative variables include:&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px; box-sizing: inherit; font-weight: bolder;&quot;&gt;Continuous&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;: represent measures and can usually be divided into units smaller than one (e.g. 0.75 grams).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;Discrete&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;: represent counts and usually can’t be divided into units smaller than one (e.g. 1 tree).&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 9px; font-family: Inter, sans-serif; box-sizing: inherit; font-weight: bolder; line-height: 9px;&quot;&gt;Categorical variables&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 9px; font-family: Inter, sans-serif; line-height: 9px;&quot;&gt;&amp;nbsp;represent groupings of things (e.g. the different tree species in a forest). Types of categorical variables include:&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;Ordinal&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;: represent data with an order (e.g. rankings).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;Nominal&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;: represent group names (e.g. brands or species names).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px; box-sizing: inherit; font-weight: bolder;&quot;&gt;Binary&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 9px;&quot;&gt;: represent data with a yes/no or 1/0 outcome (e.g. win or lose).&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p style=&quot;box-sizing: inherit; margin-top: 0px; margin-bottom: 1rem; font-family: Inter, sans-serif;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -495,8 +528,8 @@
         </mxCell>
         <mxCell id="ttZCbK3ra_AwcMFaCHn2-36" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1020" y="230.14999999999998" as="sourcePoint" />
-            <mxPoint x="1180" y="230.14999999999998" as="targetPoint" />
+            <mxPoint x="1020" y="249.99999999999997" as="sourcePoint" />
+            <mxPoint x="1180" y="249.99999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttZCbK3ra_AwcMFaCHn2-37" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
@@ -529,7 +562,7 @@
         <mxCell id="ttZCbK3ra_AwcMFaCHn2-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;right&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="80" x="1250.83" y="150.6" as="geometry" />
         </mxCell>
-        <mxCell id="ttZCbK3ra_AwcMFaCHn2-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px; line-height: 100%;&quot;&gt;stat, p_value = stats.t_test_ind (sample1, sample2, &lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;&lt;b&gt;alternative&lt;/b&gt;= &#39;greater&#39;&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px; line-height: 100%;&quot;&gt;H0: sample1 = sample2 |&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;H0: p&amp;gt;0.05&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px; line-height: 100%; color: rgb(255, 128, 0);&quot;&gt;&lt;b&gt;&lt;font&gt;H1&lt;/font&gt;&lt;/b&gt;: sample1 != sample2 |&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;H1: p&amp;lt;0.05&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ttZCbK3ra_AwcMFaCHn2-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px; line-height: 100%;&quot;&gt;stat, p_value = stats.t_test_ind (sample1, sample2, &lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;&lt;b&gt;alternative&lt;/b&gt;= &#39;greater&#39;&lt;/font&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px; line-height: 100%;&quot;&gt;H0: sample1 =&amp;lt; sample2 |&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;H0: p&amp;gt;0.05&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px; line-height: 100%; color: rgb(255, 128, 0);&quot;&gt;&lt;b&gt;&lt;font&gt;H1&lt;/font&gt;&lt;/b&gt;: sample1 &amp;gt; sample2 |&amp;nbsp;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;H1: p&amp;lt;0.05&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50.3" width="310" x="1340" y="149.7" as="geometry" />
         </mxCell>
         <mxCell id="ttZCbK3ra_AwcMFaCHn2-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;ANOVA&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;this test only detects if there is significance, but doesn&#39;t tell exactly in what combinations.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;For this, we need to use Post-Hoc tests, bcause they take into account that other tests to combinations are being done, and control the accumulation of risk&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -937,20 +970,19 @@
         <mxCell id="-j6op6PoYftNq8PSPCjF-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.5;startArrow=classic;startFill=1;fillColor=#FFB570;strokeColor=#FFB570;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="160" />
-              <mxPoint x="360" y="360" />
-              <mxPoint x="380" y="360" />
+              <mxPoint x="420" y="140" />
+              <mxPoint x="360" y="140" />
+              <mxPoint x="360" y="361" />
             </Array>
-            <mxPoint x="420" y="160.20689655172418" as="sourcePoint" />
+            <mxPoint x="420" y="140" as="sourcePoint" />
             <mxPoint x="420" y="360.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-j6op6PoYftNq8PSPCjF-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.5;startArrow=classic;startFill=1;strokeColor=#7EA6E0;">
+        <mxCell id="-j6op6PoYftNq8PSPCjF-4" edge="1" parent="1" source="xCRE8wccOKQfFn8-C-6z-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.5;startArrow=classic;startFill=1;strokeColor=#7EA6E0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="210" />
+              <mxPoint x="350" y="187" />
               <mxPoint x="350" y="410" />
-              <mxPoint x="360" y="410" />
             </Array>
             <mxPoint x="400" y="209.9968965517242" as="sourcePoint" />
             <mxPoint x="400" y="410.29" as="targetPoint" />
@@ -959,17 +991,18 @@
         <mxCell id="-j6op6PoYftNq8PSPCjF-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=0.5;startArrow=classic;startFill=1;strokeColor=#97D077;" target="7nWFPXopERBmQTWbtrVL-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="253" />
+              <mxPoint x="416" y="270" />
+              <mxPoint x="340" y="270" />
               <mxPoint x="340" y="466" />
             </Array>
-            <mxPoint x="416" y="252.68965517241395" as="sourcePoint" />
+            <mxPoint x="416" y="270" as="sourcePoint" />
             <mxPoint x="416" y="453.2499999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-j6op6PoYftNq8PSPCjF-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.5;startArrow=classic;startFill=1;strokeColor=#EA6B66;">
+        <mxCell id="-j6op6PoYftNq8PSPCjF-14" edge="1" parent="1" source="xCRE8wccOKQfFn8-C-6z-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0.5;startArrow=classic;startFill=1;strokeColor=#EA6B66;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="296" />
+              <mxPoint x="370" y="313" />
               <mxPoint x="370" y="517" />
             </Array>
             <mxPoint x="411" y="296" as="sourcePoint" />

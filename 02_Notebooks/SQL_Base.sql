@@ -489,3 +489,76 @@ LIMIT — sort and trim
 # On WITH (CTEs): You're exactly right. WITH runs before everything else — it defines named result sets that the main
 # query can then reference. And yes, each CTE itself follows the same execution order internally
 # — FROM → WHERE → GROUP BY → SELECT, etc. Then the outer query runs against those CTE results from FROM onwards.
+
+# RECURSIVE SQL
+# A CTE, Common Table Expression, specifies a temporary named result set. It is defined within the execution of a single statement.
+WITH CTE_Table (modified names of the queried columns) as ( - query - )
+SELECT query FROM CTE_Table
+
+# RECURSION, is the use of a procedure,subroutine, function or algorithm that calls itself one or more times until a specified
+# condition is met.
+# Something important about it is that we need a termination condition, to avoid it to het infinit.
+# Solves problems ina recursive way, easy to read and follow, recursion could be limited by the termination condition
+# Slow execution time
+WITH calculate_factorial AS (          -- [A] The Name
+    SELECT                             -- [B] The Anchor Member (The Foundation)
+        1 AS step,                     -- Every recursive query must have a starting point.This part runs only once at the very beginning.In your factorial example, you are saying: "Start at step 1, and the value of $1!$ is 1."
+        1 AS factorial
+
+    UNION ALL                          -- [C] The Glue
+
+    SELECT                             -- [D] The Recursive Member (The Engine)
+        step + 1,
+        factorial * (step + 1)
+    FROM calculate_factorial           -- [E] Self-Reference
+    WHERE step < 6                     -- [F] The Termination Condition
+)
+
+# Or, once again, Anchor or initiation statement + adding expression + recursive statement
+-- Define the CTE
+WITH counting_numbers AS (
+	SELECT
+  		-- Initialize number
+  		1 AS number
+  	UNION ALL
+  	SELECT
+  		-- Increment number by 1
+  		number + 1 AS number
+  	FROM counting_numbers
+	-- Set the termination condition
+  	WHERE number < 50)
+
+SELECT number
+FROM counting_numbers;
+
+# Or making potencies of sequencial numbers until 10
+WITH calculate_potencies (step, result) AS (
+#     we do the anchor or initiation step
+    1,
+    1
+    UNION ALL
+    step + 1,
+    result + POWER(step+1, step+1)
+    FROM calculate_potencies
+    WHERE step < 10
+)
+SELECT steps, result FROM calculate_potencies
+
+# Window Functions
+# Performs an operation across a set of rows that are somehow related to the current row.
+# Similar to Group BY aggregate functions, but all rows in the output.
+# Fetching values from preceeding or following rows.
+# Assigning ordinal ranks to rows based on their values' positions in a sorted list
+# running totals, moving averages.
+# The Skeleton is
+FUNCTION_NAME() OVER() -- OVER() indicated it is a window function
+Functions = ROW_NUMBER(), LAG()
+OVER() = ORDER BY, PARTITION BY, ROWS/RANGE PRECEDING/FOLLOWING/ UNBOUNDED -- can go inside the OVER() function
+PARTITION BY applies the function to each subset determined by partitioning the data.
+ORDER BY is used in over() to tell the order in which the ufnction will be applied. E.g: row_number() will start counting in the first row affected by order by.
+
+Fetching: Relative -> LAG(column name, n) LEAD(column name, n) returns column's value at the row n before for lag and after for lead from the current row
+          Absolute -> FIRST_VALUE(column name) LAST_VALUE(column name) returns the first or last value of the column in the group
+Ranking: ROW_NUMBER(), DENSE_RANK(), RANK()
+Running totals: SUM(), AVG(), COUNT(), MIN(), MAX()
+Moving averages: AVG() OVER(PARTITION BY column_name ORDER BY column_name ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING)                                                                                                      '
